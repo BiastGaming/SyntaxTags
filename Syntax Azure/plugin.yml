@@ -1,0 +1,11 @@
+name: SynatxTags
+main: me.BiastGaming.SyntaxNetwork.Azure.Main
+description: BiastGaming's Tags
+version: 1
+author: BiastGaming
+
+commands:
+  tags:
+    description: See the tags!
+    aliases: [tg, tag]
+    usage: Syntax /tags
